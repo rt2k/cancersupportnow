@@ -1,3 +1,10 @@
+<?php
+if (!isset($_POST) || !isset($_POST['attendant_name'])) {
+    header('location: index.php?gt=hhhreserve');
+    exit;
+}
+?>
+
 <p class="contentHeader">Hope and Healing Honors Reservation Confirmation</p>
 <hr/>
 <br/>
