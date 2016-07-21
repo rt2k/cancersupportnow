@@ -41,7 +41,8 @@ Sarah Contreras: (505) 890-1205
 All cancers, survivors and caregivers <br/>
 Temporarily Inactive
 </li>
-<li><p class='listItemHeader'>Friends and Family Writing Together</p>
+<li><p class='listItemHeader'>Friends and Family Writing Together
+(view <a href='#' onclick='window.open("pdfs/journaling_support_group_for_friend.pdf");'/>flyer</a>)</p>
 Journaling Support Group for Grief or Anticipatory Grief <br/>
 For caregivers/loved ones of someone with any type of cancer <br/>
 Every Thursday, 4:00PM to 5:30PM <br/>

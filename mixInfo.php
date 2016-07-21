@@ -3,8 +3,6 @@
 
 <!--a href='#' onclick='window.open("pdfs/quit_smoking.pdf");'>Smoking Cessation</a>
 <br/><br/>
-<a href='#' onclick='window.open("pdfs/journaling_support_group_for_friend.pdf");'>Journaling Support Group for Family and Friends of Cancer Patients</a>
-<br/><br/>
 <a href='#' onclick='window.open("pdfs/monday_writing_group.pdf");'>Monday Writing Group</a>
 <a href='#' onclick='window.open("pdfs/facilitator_training_workshop.pdf");'>Facilitator Training Workshop, October 12 </a-->
 <br/><br/>
