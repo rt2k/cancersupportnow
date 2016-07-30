@@ -163,6 +163,9 @@ All CSN support services are free.
             case 'registration':
                 include('registration.php');
                 break;
+            case 'policy':
+                include('policy.php');
+                break;
 			default:
 				include('home.php');
 		}
@@ -194,6 +197,11 @@ if (isset($_SESSION['username'])) {
     print "<a href='index.php?gt=login'><input type='button' value='admin login' id='login_button'/></a>";
 }
 ?>
+    <div id='policy'> 
+        <span><a href='index.php?gt=policy#pp'>Privacy Policy</a></span>
+        <span><a href='index.php?gt=policy#tnc'>Terms and Conditions</a></span>
+        <span><a href='index.php?gt=policy#rp'>Refund Policy</a></span>
+    </div>
 </div>
 </div>
 </div>

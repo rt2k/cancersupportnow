@@ -209,3 +209,16 @@ body {
 .warning {
     color: #F24C28;
 }
+div#policy {
+    float: right;
+    margin-top: 20px;
+    color: gray;
+    font-size: 11pt;
+    margin-right: 10px;
+}
+div#policy span {
+    margin-right: 15px;
+}
+div#policy span a {
+    text-decoration: none;
+}
