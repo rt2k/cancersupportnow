@@ -54,6 +54,9 @@ function printReservation(&$row) {
             $totalTable += $row['num_table'];
         }
     }
+    if ($row['will_dance'] == 't') {
+        print '<tr><td colspan=2>Yes I would like to attend Native American dances at 11am as guest of CSN</td></tr>';
+    }
 
     print '</table></fieldset>';
     print '<br/>';

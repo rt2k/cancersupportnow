@@ -25,13 +25,17 @@
 <input type='radio' id='confirm_yes' name='confirm' value='yes'/>
 <label>Yes, I will be attending the Hope and Healing Awards</label><br/>
 <div style='margin-left:30px;'>
-<input type='checkbox' id='ticket_base' name='ticket_base' disabled/>
+<input type='checkbox' id='ticket_base' name='ticket_base' class='reserve' disabled/>
 <label>Please reserve <input type='text' size='5' disabled id='num_ticket' name='num_ticket'/> tickets at $65 each.</label><br/>
-<input type='checkbox' id='table_base' name='table_base'  disabled/>
+<input type='checkbox' id='table_base' name='table_base'  class='reserve' disabled/>
 <label>Please reserve <input type='text' size='5' disabled id='num_table' name='num_table'/> tables of 9 at $575 each.</label><br/>
 </div>
 <input type='radio' id='confirm_no' name='confirm' value='no'/>
 <label>No, I cannot attend. Please accept a donation of $<input type='text' disabled size='8' id='donate_amount' name='donate_amount'/></label>
+<br/>
+<br/>
+<input type='checkbox' name='attend_dance' id='attend_dance'/>
+<label for='attend_dance'>Yes I would like to attend  Native American dances at 11am as guest of CSN.</label>
 <br/>
 <br/>
 <div class="g-recaptcha" data-sitekey="6LdLNyMTAAAAAJzqrPwMAlU6vW-1IaCiCmPNzMip"></div>
@@ -62,7 +66,7 @@ $(document).ready(function() {
 // toggle reservation/donation
 $('input[name="confirm"]').on('click', function(){
     if (this.value == 'yes') {
-        $('input[type="checkbox"]').prop('disabled', false);
+        $('input.reserve').prop('disabled', false);
         if ($('#ticket_base').is(':checked')) {
             $('#num_ticket').prop('disabled', false);
         }
@@ -72,7 +76,7 @@ $('input[name="confirm"]').on('click', function(){
 
         $('#donate_amount').prop('disabled', 'disabled');
     } else {
-        $('input[type="checkbox"], #num_ticket, #num_table').prop('disabled', 'disabled');
+        $('input.reserve, #num_ticket, #num_table').prop('disabled', 'disabled');
         $('#donate_amount').prop('disabled', false);
     }
 });

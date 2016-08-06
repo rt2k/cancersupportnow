@@ -24,6 +24,12 @@ $attendantState = $_POST['attendant_state'];
 $attendantZip = $_POST['attendant_zip'];
 $attendantPhone = $_POST['attendant_phone'];
 $attendantEmail = $_POST['attendant_email'];
+if (isset($_POST['attend_dance'])) {
+    $attendDance = 1;
+} else {
+    $attendDance = 0;
+}
+
 $year = $_POST['year'];
 
 $numTicket = null;
@@ -141,8 +147,8 @@ if ($resp->isSuccess()) {
     }
 
     $rs = pg_prepare($conn, 'add_reservation', "INSERT INTO ccs.hhh_reservation (
-    name,title,organization,department,address,city,state,zip,phone,email,num_ticket,num_table,donate_amount,year,submission_time)
-    VALUES ($1, $2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15);");
+    name,title,organization,department,address,city,state,zip,phone,email,num_ticket,num_table,donate_amount,year,submission_time,will_dance)
+    VALUES ($1, $2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16);");
     $param = array(
         $attendantName,
         $attendantTitle,
@@ -158,7 +164,8 @@ if ($resp->isSuccess()) {
         $numTable,
         $donateAmount,
         $year,
-        $currentTime);
+        $currentTime,
+        $attendDance);
 
     $rs = pg_execute($conn, 'add_reservation', $param);
     if ($rs === false) {
