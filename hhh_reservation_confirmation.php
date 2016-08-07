@@ -128,6 +128,9 @@ if ($willAttend == 'yes') {
 } else {
     $attendantInfo .= "<tr><td>Donation:</td><td>$" . $donateAmount . "</td></tr>";
 }
+if ($attendDance) {
+    $attendantInfo .= "<tr><td colspan=2>Yes I would like to attend Native American dances at 11am as guest of CSN</td></tr>";
+}
 $attendantInfo .= '</table>';
 // end of message
 

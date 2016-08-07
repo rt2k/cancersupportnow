@@ -35,7 +35,7 @@
 <br/>
 <br/>
 <input type='checkbox' name='attend_dance' id='attend_dance'/>
-<label for='attend_dance'>Yes I would like to attend  Native American dances at 11am as guest of CSN.</label>
+<label>Yes I would like to attend  Native American dances at 11am as guest of CSN.</label>
 <br/>
 <br/>
 <div class="g-recaptcha" data-sitekey="6LdLNyMTAAAAAJzqrPwMAlU6vW-1IaCiCmPNzMip"></div>
