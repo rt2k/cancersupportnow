@@ -44,8 +44,10 @@ $lastName = $tmp[sizeof($tmp) -1];
 $willAttend = $_POST['confirm'];
 $confirmation= '';
 if ($willAttend == 'yes') {
+    $i = 0;
     if (isset($_POST['ticket_base'])) {
         $numTicket = $_POST['num_ticket'];
+        $i = 1;
     } 
 
     if (isset($_POST['table_base'])) {
@@ -67,9 +69,9 @@ if ($willAttend == 'yes') {
         <input type="hidden" name="quantity_1" value="' . $numTicket . '">
         <input type="hidden" name="amount_1" value="' . $hhhTicketCost . '">';
     if ($numTable) $confirmation .= '
-        <input type="hidden" name="item_name_2" value="hhh table of 9">
-        <input type="hidden" name="quantity_2" value="' . $numTable . '">
-        <input type="hidden" name="amount_2" value="' . $hhhTableCost . '">';
+        <input type="hidden" name="item_name_' . ($i + 1) . '" value="hhh table of 9">
+        <input type="hidden" name="quantity_' . ($i + 1) . '" value="' . $numTable . '">
+        <input type="hidden" name="amount_' . ($i + 1) . '" value="' . $hhhTableCost . '">';
     $confirmation .= '
         <INPUT TYPE="hidden" NAME="first_name" VALUE="' . $firstName . '">
         <INPUT TYPE="hidden" NAME="last_name" VALUE="' . $lastName . '">
