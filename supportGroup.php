@@ -145,6 +145,30 @@ Survivors, all diagnoses, male and female <br/>
 5:30-7:00PM <br/>
 Location TBA
 </li>
+<li><p class='listItemHeader'>Valencia County Groups</p>
+Lisa Parson, facilitator<br/><br/>
+Women&#39;s Group (survivors)<br/>
+Second Saturday of the month, 10:00AM-1:00PM<br/>
+Milton Loop, Los Lunas<br/><br/>
+
+Open Group (men &amp; women, survivors &amp; caregivers) <br/>
+Every other Wednesday, 10:00AM-Noon (coffee available) Bosque Farms
+</li>
+<li><p class='listItemHeader'>Gynecological Cancer Awareness Project</p>
+Our newest affiliated support group, G-CAP has a mission to empower women who are fighting <br/>
+gynecological and breast cancer by providing education and support -- helping them to live a
+healthy and inspired life.<br/>
+<br/>
+Email: cleversenoras@gmail.com <br/>
+Web: https://www.thegcap.org/home-1.html <br/>
+<br/>
+7007 Wyoming NE Suite D3 <br/>
+Albuquerque, NM 87109 <br/>
+(505) 610-9300 <br/><br/>
+
+They sponsor the Can Do Project, have their own
+Library, Offer Massage Services at their office.
+</li>
 <li><p class='listItemHeader'>Prostate Cancer Support Association of New Mexico </p>
 It is an affiliated support group with CSN. <br/>
 Support group meetings are held 1st and 3rd Saturdays of the month, <br/>
