@@ -146,13 +146,16 @@ Survivors, all diagnoses, male and female <br/>
 Location TBA
 </li>
 <li><p class='listItemHeader'>Valencia County Groups</p>
-Lisa Parson, facilitator<br/><br/>
-Women&#39;s Group (survivors)<br/>
+These are newly affiliated groups with CSN. Lisa Parson's groups provide Christian based cancer support.
+<br/><br/>
+Women&#39;s Group (survivors) "Ashes to Beauty"<br/>
 Second Saturday of the month, 10:00AM-1:00PM<br/>
 Milton Loop, Los Lunas<br/><br/>
 
 Open Group (men &amp; women, survivors &amp; caregivers) <br/>
-Every other Wednesday, 10:00AM-Noon (coffee available) Bosque Farms
+Every other Wednesday, 10:00AM-Noon (coffee available) Bosque Farms<br/><br/>
+Facilitator: Lisa Parson (lparson21@gmail.com) <br/>
+Call the CSN Helpline for more information: (505) 255-0405; toll free: (855) 955-3500
 </li>
 <li><p class='listItemHeader'>Gynecological Cancer Awareness Project</p>
 Our newest affiliated support group, G-CAP has a mission to empower women who are fighting <br/>
