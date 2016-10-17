@@ -134,7 +134,7 @@ Sipapu St, Taos
 2nd Tuesday of the month, 6:30PM <br/>
 On Fourth St. NW
 </li>
-<li><p class='listItemHeader'>UNM /CSN Education & Support Group </p>
+<li><p class='listItemHeader'>UNM /CSN Education & Support Group (view <a href='#' onclick='window.open("pdfs/UNMEDSGflyer.pdf");'>flyer</a>)</p>
 Survivors and/or Caregivers<br/>
 1st and 3rd Monday, 5:30-7:00PM <br/>
 Central United Methodist Church, University Blvd.

@@ -11,6 +11,10 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
+<p>Now you can help CSN by shopping at AmazonSmile. <a href='#' onclick='window.open("pdfs/amazon_smile_csn.pdf");'>View details</a>.</p>
+</div>
+
+<div class='announcement'>
 <p><i><u>August Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
 </div>
 
