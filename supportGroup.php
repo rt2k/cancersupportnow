@@ -50,26 +50,16 @@ UNM Cancer Center
 </li>
 <li><p class='listItemHeader'>LGBT Group *
 (view <a href='#' onclick='window.open("pdfs/LGBT.pdf");'/>flyer</a>)</p>
+CSN now hosts the ONLY LGBT Cancer Survivor/Caregiver group in NM<br/>
 All diagnoses, cancer survivors <br/>
-1st and 3rd Tuesday, 6:30-8:30 PM <br/>
+1st Tuesday of month, 6:30-8:30 PM <br/>
 NM Cancer Center (Jefferson & Lang)<br/>
 <br/>
 <div style='font-size:small;'>
-This group is for members of the LGBT community who are Cancer survivors, either newly diagnosed, in treatment, posttreatment,
-or Long-Term Survivors. We are led by 2 members of the LGBT Community who are also Cancer Survivors.
-<br/>
-We meet the 2nd and 4th Tuesdays of the month from 6:30 p.m. to 8:30 p.m. at The New Mexico Cancer Center (4901
- Lang St NE, ABQ, 87109).
-<br/>  
-We offer a SAFE and supportive environment where we NEVER judge one another, but rather share our experiences
-  to help each other cope with whatever they are going through.
-<br/>Each meeting has a general discussion time as well as specific topics which change as soon as we feel it appropriate to
-   move on. We also have speakers who make presentations to the group which are related to the topic we are discussing.
-   Both the topics and the related speakers are chosen based upon suggestions from the group members.
-<br/>For more information, or to join the group, please contact one of our facilitators at (505) 440-0044, or contact Cancer
-    Support Now at 505-255-0405 or toll-free 855-955-3500 or email info@cancersupportnow.org
-<br/>"All I ever wanted was to reach out and touch another human being not just with my hands but with my heart."
-     Tahereh Mafi 
+This group provides a safe and welcoming environment for adult LGBT Cancer Survivors
+and Patients at any stage in their journey with cancer.  Their caregivers are welcome, as
+are LGBT caregivers of others going through cancer. Meet with others to discuss the
+effects of cancer on our lives and relationships.  info@cancersupportnow.org 505-255-0405
 </div>
 </li>
 <li><p class='listItemHeader'>North Valley Women's Support Group</p>
@@ -130,10 +120,10 @@ Caregivers (all cancers) Mondays, <br/>
 5:00-6:30PM <br/>
 Sipapu St, Taos
 </li>
-<li><p class='listItemHeader'>Thyroid Cancer Group * </p>
+<!--li><p class='listItemHeader'>Thyroid Cancer Group * </p>
 2nd Tuesday of the month, 6:30PM <br/>
 On Fourth St. NW
-</li>
+</li-->
 <li><p class='listItemHeader'>UNM /CSN Education & Support Group (view <a href='#' onclick='window.open("pdfs/UNMEDSGflyer.pdf");'>flyer</a>)</p>
 Survivors and/or Caregivers<br/>
 1st and 3rd Monday, 5:30-7:00PM <br/>

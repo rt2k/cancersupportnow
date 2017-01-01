@@ -11,33 +11,19 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
+<p><i><u>February 2017 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
+</div>
+
+<div class='announcement'>
+<span><b>6th Annual Living With & Beyond Cancer Conference</b>&nbsp;&nbsp;<!--a href='#' onclick='window.open("pdfs/hope_healing_honors.pdf");'>View Info</a--></span>
+<p>Date: 03/18/2017</p>
+<p>Location: Central United Methodist Church ~ 201 University Blvd. NE, ABQ, NM 87106</p>
+<p>Registration now open at <a href='index.php?gt=conference'>Conferences Page</a></p>
+</div>
+
+<div class='announcement'>
 <p>Now you can help CSN by shopping at AmazonSmile. <a href='#' onclick='window.open("pdfs/amazon_smile_csn.pdf");'>View details</a>.</p>
 </div>
-
-<div class='announcement'>
-<p><i><u>August Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
-</div>
-
-<div class='announcement'>
-<span>Event: <b>Hope and Healing Honors</b>&nbsp;&nbsp;<a href='#' onclick='window.open("pdfs/hope_healing_honors.pdf");'>View Info</a></span>
-<p>Date: 09/24/2016</p>
-<p>Location: Indian Pueblo Cultural Center</p>
-<p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p>
-<p>Nomination: <a href='index.php?gt=hhhsubmit'>click here</a></p>
-<!--p><a href='#' onclick='window.open("pdfs/registration_normination_form.pdf");'>Registration/Nomination forms</a></p-->
-<?php if ($isAdmin) { ?>
-    <p><a href="index.php?gt=hhhreserveshow">View reservations</a></p>
-    <p><a href="index.php?gt=hhhshow">View nominations</a></p>
-
-<?php }
-?>
-<p><b>Consider being one of our sponsors for this event?</b> Get the <a href='#' onclick='window.open("pdfs/hope_healing_honors_forms.pdf");'>forms</a></p>
-</div>
-
-<!--div class='announcement'>
-<span><b>Announcement: Listening Group for Breast Cancer Planning Underway</b></span>
-<p><a href='#' onclick='window.open("pdfs/listening_group.pdf");'>view flyer</a></p>
-</div-->
 
 <div class='announcement'>
 <p>I'VE SURVIVED CANCER... NOW WHAT? check out <a href='#' onclick='window.open("pdfs/cdpc_factsheet.pdf");'>fact sheet</a>. </p>
@@ -46,6 +32,21 @@ survivors, their loved ones and caregivers.
 <br/>
 <div class='pastEvent'>
 <p><b>Past Events:</b></p>
+<span>Hope and Healing Honors (09/24/2016) <a href='#' onclick='window.open("pdfs/hope_healing_honors.pdf");'>View flyer</a>
+<a href='#' onclick='window.open("pdfs/hhh_honorees_2016.pdf");'>honorees</a>
+</span><br/>
+<!--p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p>
+<p>Nomination: <a href='index.php?gt=hhhsubmit'>click here</a></p>
+<p><a href='#' onclick='window.open("pdfs/registration_normination_form.pdf");'>Registration/Nomination forms</a></p-->
+<?php if ($isAdmin) { ?>
+    <!--p><a href="index.php?gt=hhhreserveshow">View reservations</a></p>
+    <p><a href="index.php?gt=hhhshow">View nominations</a></p-->
+
+<?php }
+?>
+<!--p><b>Consider being one of our sponsors for this event?</b> Get the <a href='#' onclick='window.open("pdfs/hope_healing_honors_forms.pdf");'>forms</a></p-->
+
+<br/>
 <span>Cancer Thriving and Surviving Workshop (02/23 - 03/29/2016) <a href='#' onclick='window.open("pdfs/cancer_survivor_workshop_022316.pdf");'>view flyer</a></span><br/>
 <br/>
 <span>Fifth Annual Living With & Beyond Cancer Conference (03/05/2016) <a href='index.php?gt=conference'>Conferences Page</a></span><br/>
