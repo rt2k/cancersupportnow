@@ -35,7 +35,7 @@ people experiencing cancer in any way.<br/>
 <u>English speaking</u>: <br/>
 Eleanor Schick: 255-0405 <br/>
 <u>En Espanol</u>: <br/>
-Sarah Contreras: (505) 890-1205
+Sarah Contreras: (505)738-8171 
 </li>
 <li><p class='listItemHeader'>Coloring & Creativity *</p>
 All cancers, survivors and caregivers <br/>
