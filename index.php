@@ -84,7 +84,7 @@ function toggleLogo(n){
 <img id='trans_spanish' data-lang='Spanish' title='translate to Spanish' alt='translate to Spanish' width='30%' src='images/Spanish.gif' />
 <img id='trans_chinese' data-lang='Chinese' title='translate to Chinese' alt='translate to Chinese' width='30%' src='images/Chinese.gif' />
 </span>
-<img id='guestbookIcon' src='images/guestbook.png' title='sign our guestbook' width='5%' onclick='window.open("guestbook/index.php");'/>
+<!--img id='guestbookIcon' src='images/guestbook.png' title='sign our guestbook' width='5%' onclick='window.open("guestbook/index.php");'/-->
 <img id='facebookIcon' src='images/facebook-icon.png' width='5%' onclick='window.open("https://www.facebook.com/cancersupportnow");' />
 
 <p id='helpClaim'><i>
