@@ -10,7 +10,8 @@ OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf")
 </td></tr>
 </table>
 <br/>
-<p>Conference Fliers (coming soon...)</p>
+<p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a>( more to come ...)</p>
 <!--ul>
 <li><a href='#' onclick='window.open("pdfs/5th_conference_overview4.pdf");'>overview</a></li>
 <li><a href='#' onclick='window.open("pdfs/5th_conference_yoga2.pdf");'>yoga</a></li>
