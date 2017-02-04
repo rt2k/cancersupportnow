@@ -70,6 +70,7 @@ function showEditPanel(id) {
     html += "<input name='group_title' size=70 value='" + title + "' placeholder='Add a title...' /><br/>"
          + "<textarea name='group_desc' cols=69 rows=7 placeholder='Add description...'>" + desc + "</textarea><br/>"
          + "<input type='submit' class='button' value='Submit'/>"
+         + "<input type='button' value='Cancel' onclick='closeDialog();' />"
          + "</form>";
     jQuery('#edit_panel').html(html).dialog({
         modal: true,
@@ -77,6 +78,10 @@ function showEditPanel(id) {
         draggable: false,
         minWidth: 600
     });
+}
+
+function closeDialog() {
+    jQuery('#edit_panel').dialog('close');
 }
 
 function addFlyer(id) {
