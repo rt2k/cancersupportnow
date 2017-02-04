@@ -1,10 +1,150 @@
+<?php
+if (isset($_SESSION['username'])) {
+    $user = $_SESSION['username'];
+} else {
+    $user = null;
+}
+?>
+
 <p class='contentHeader'>Free Cancer Support Now Services. </p>
-<p><i>* New groups transitioned over from People Living Through Cancer (PLTC) as of April/May 2016.</i></p>
+<p>
+    <i>* New groups transitioned over from People Living Through Cancer (PLTC) as of April/May 2016.</i>
+    <?php if($user) print "<input class='listitem-add' type='button' value='Add new group' onclick='showEditPanel();'/>"; ?>
+</p>
 <hr/>
 
+<ul class='contenList'>
+<?php
+// Get data from db
+require_once('getConnection.php');
+$conn = getConnection();
+$query = "SELECT * FROM ccs.csn_services ORDER BY title";
+$result = pg_query($conn, $query);
+$services = array();
+// display result
+while($row = pg_fetch_assoc($result)) {
+    $services[$row['id']] = array('title'=> $row['title'], 'desc'=> $row['description']);
+
+    $hasFlyer = $row['flyer_file_name'] ? true : false;
+    print "<li id='group" . $row['id'] . "'><p class='listItemHeader' style='font-weight: bold'>" . $row['title'];
+    if ($hasFlyer) {
+        print " <span class='flyer'>(view <a href='#' onclick='window.open(\"pdfs/" . 
+            $row['flyer_file_name'] . "\");'>flyer</a>)</span>";
+    }
+    // print manage buttons
+    if ($user) {
+        print " <input type='button' class='edit' value='Edit text' onclick='showEditPanel(" . $row['id'] . ");'/>"; 
+        if ($hasFlyer) {
+            print "<input type='button' value='Delete flyer' onclick='deleteFlyer(" . $row['id'] . ");'/>";
+        } else {
+            print "<input type='button' value='Add flyer' onclick='addFlyer(" . $row['id'] . ");'/>";
+            print "<input type='file' id='flyer_upload_" . $row['id'] . "' name='flyer_upload_" . $row['id'] . 
+                "' hidden onchange='uploadFlyer(this, " . $row['id'] . ");' accept='.pdf'/>";
+        }
+        print "<input type='button' value='Remove group' onclick='removeGroup(" . $row['id'] . ", \"" . $row['title'] . "\");'/>";
+    }
+    print "</p>";
+    print str_replace("\r\n", "<br/>", $row['description']);
+    print "</li>";
+}
+pg_close($conn);
+?>
+</ul>
+<div id='edit_panel' style='font-size:small'></div>
+<!--form action='remote/updateServiceGroup.php' method='post'>
+<input name='group_title' size=70 placeholder='Add a title...' /><br/>
+<textarea name='group_desc' cols=69 rows=7 placeholder='Add description...'></textarea><br/>
+<input type='submit' class='button' value='Submit'/>
+</form-->
+<script>
+var services = <?php print json_encode($services);?>;
+
+function showEditPanel(id) {
+    var title = '', desc = '';
+    var html = "<form action='remote/updateServiceGroup.php' method='post'>";
+    if (id) {
+        html += "<input type='hidden' name='id' value=" + id + " />";
+        title = services[id].title;
+        desc = services[id].desc;
+    }
+    html += "<input name='group_title' size=70 value='" + title + "' placeholder='Add a title...' /><br/>"
+         + "<textarea name='group_desc' cols=69 rows=7 placeholder='Add description...'>" + desc + "</textarea><br/>"
+         + "<input type='submit' class='button' value='Submit'/>"
+         + "</form>";
+    jQuery('#edit_panel').html(html).dialog({
+        modal: true,
+        title: 'Edit a group',
+        draggable: false,
+        minWidth: 600
+    });
+}
+
+function addFlyer(id) {
+    jQuery('#flyer_upload_' + id).click();
+}
+
+function uploadFlyer(el, id) {
+    var formData = new FormData();
+    formData.append('newFlyer', jQuery(el).prop('files')[0]);
+    formData.append('id', id);
+    jQuery.ajax({
+        url: 'remote/uploadFlyer.php',
+        type: 'post',
+        processData: false,
+        contentType: false,
+        dataType: 'json',
+        data: formData
+    })
+    .done(function(response) {
+        if (response === 1) {
+            location.reload();
+        } else {
+            jQuery(el).val('');
+            alert(response);
+        }
+    });
+}
+
+function deleteFlyer(id) {
+    if (confirm('Are you sure to delete this flyer?')) {
+        jQuery.post(
+            'remote/deleteFlyer.php',
+            { 'id' : id },
+            function (response) {
+            console.log(response);
+                if (response == 1) {
+                    location.reload();
+                } else {
+                    alert('Failed to remove flyer!');
+                }
+            }
+        );
+    }
+}
+
+function removeGroup(id, title) {
+    if (confirm('Are you sure to remove this group: ' + title + ' ?')) {
+        jQuery.post(
+            'remote/deleteGroup.php',
+            { 'id' : id },
+            function (response) {
+                if (response == 1) {
+                    // Remove group from page
+                    jQuery('#group' + id).remove();
+                } else {
+                    alert('Failed to remove group!');
+                }
+            }
+        )
+        .fail(function() {
+            alert('Failed to remove group!');
+        });
+    }
+}
+</script>
 <ul class='contentList'>
 
-<li><p class='listItemHeader'>Advanced Diagnosis Group *</p>
+<!--li><p class='listItemHeader'>Advanced Diagnosis Group *</p>
 All types of cancer<br/>
 1st and 3rd Tuesday at 1:00PM <br/>
 Carlisle & Comanche
@@ -119,11 +259,11 @@ Survivors (all cancers) Tuesdays, <br/>
 Caregivers (all cancers) Mondays, <br/>
 5:00-6:30PM <br/>
 Sipapu St, Taos
-</li>
+</li-->
 <!--li><p class='listItemHeader'>Thyroid Cancer Group * </p>
 2nd Tuesday of the month, 6:30PM <br/>
 On Fourth St. NW
-</li-->
+</li>
 <li><p class='listItemHeader'>UNM /CSN Education & Support Group (view <a href='#' onclick='window.open("pdfs/UNMEDSGflyer.pdf");'>flyer</a>)</p>
 Survivors and/or Caregivers<br/>
 1st and 3rd Monday, 5:30-7:00PM <br/>
@@ -149,7 +289,7 @@ Call the CSN Helpline for more information: (505) 255-0405; toll free: (855) 955
 </li>
 <li><p class='listItemHeader'>Gynecological Cancer Awareness Project</p>
 Our newest affiliated support group, G-CAP has a mission to empower women who are fighting <br/>
-gynecological and breast cancer by providing education and support -- helping them to live a
+gynecological and breast cancer by providing education and support - helping them to live a
 healthy and inspired life.<br/>
 <br/>
 Email: cleversenoras@gmail.com <br/>
@@ -172,4 +312,4 @@ Phone: (505)254-7784 <br/>
 Email: pchelp@pcsanm.org<br/>
 <br/>
 <b>The Cancer Support Now Library is hosted here.</b>
-</li>
+</li-->

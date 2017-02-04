@@ -21,7 +21,7 @@
                 print "<p class='warning'>username or password is not correct.</p>";
             } else {
                 // Set session data
-                session_start();
+                if (!isset($_SESSION)) { session_start(); }
                 $_SESSION['username'] = $username;
                 print '<p>You are logged in successfully.</p>';
             }
@@ -34,7 +34,7 @@
 <table>
     <tr><td>Username:</td><td><input type='text' id='username' name='username'/></td></tr>
     <tr><td>Password:</td><td><input type='password' id='password' name='password'/></td></tr>
-    <tr><td></td><td align='right'><input type='submit' value='Login'/></td></tr>
+    <tr><td></td><td align='right'><input type='submit' class='button' value='Login'/></td></tr>
 </table>
 </form>
 </div>

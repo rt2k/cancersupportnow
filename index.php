@@ -189,12 +189,12 @@ All CSN support services are free.
 <div id='pageBottom'>
 <?php 
 if (isset($_SESSION['username'])) {
-    print "<form action='index.php' method='post'>";
+    print "<form action='index.php' method='post' style='display:inline-block'>";
     print "You are logged in as " . $_SESSION['username'] . '&nbsp;&nbsp;';
-    print "<input type='submit' value='logout' id='logout' name='logout'/>";
+    print "<input type='submit' class='button' value='logout' id='logout' name='logout'/>";
     print "</form>";
 } else {
-    print "<a href='index.php?gt=login'><input type='button' value='admin login' id='login_button'/></a>";
+    print "<a href='index.php?gt=login'><input type='button' value='Admin login' id='login_button'/></a>";
 }
 ?>
     <div id='policy'> 
