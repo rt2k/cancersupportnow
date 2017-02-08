@@ -45,7 +45,7 @@
     <tr><td>Username:</td><td><input type='text' id='username' name='username'/></td></tr>
     <tr><td>Password:</td><td><input type='password' id='password' name='password'/></td></tr>
     <tr><td>Confirm Password:</td><td><input type='password' id='confirm_password' name='confirm_password'/></td></tr>
-    <tr><td></td><td align='right'><input type='submit' value='Submit'/></td></tr>
+    <tr><td></td><td align='right'><input type='submit' class='button' value='Submit'/></td></tr>
 </table>
 </form>
 </div>
