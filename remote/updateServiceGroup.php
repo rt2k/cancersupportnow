@@ -1,4 +1,5 @@
 <?php
+session_start();
 require_once('../getConnection.php');
 
 $title = $_POST['group_title'];
