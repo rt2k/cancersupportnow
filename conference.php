@@ -11,7 +11,12 @@ OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf")
 </table>
 <br/>
 <p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
-<a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a>( more to come ...)</p>
+<a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a> &nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_hospice101.pdf");'>Hospice 101</a> &nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_vialoflife.pdf");'>Vial of life</a> &nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_jmflyer.pdf");'>JM Lunchtime speaker</a> &nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_medicalcannabisflyer.pdf");'>Medical cannabis</a> &nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_kwlflyer.pdf");'>Sacredness in Healing</a> &nbsp;( more to come ...)</p>
 <!--ul>
 <li><a href='#' onclick='window.open("pdfs/5th_conference_overview4.pdf");'>overview</a></li>
 <li><a href='#' onclick='window.open("pdfs/5th_conference_yoga2.pdf");'>yoga</a></li>
