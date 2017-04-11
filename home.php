@@ -15,13 +15,6 @@ survivors, their loved ones and caregivers.
 </div>
 
 <div class='announcement'>
-<span><b>6th Annual Living With & Beyond Cancer Conference</b>&nbsp;&nbsp;<!--a href='#' onclick='window.open("pdfs/hope_healing_honors.pdf");'>View Info</a--></span>
-<p>Date: 03/18/2017</p>
-<p>Location: Central United Methodist Church ~ 201 University Blvd. NE, ABQ, NM 87106</p>
-<p>Registration now open at <a href='index.php?gt=conference'>Conferences Page</a></p>
-</div>
-
-<div class='announcement'>
 <p>Now you can help CSN by shopping at AmazonSmile. <a href='#' onclick='window.open("pdfs/amazon_smile_csn.pdf");'>View details</a>.</p>
 </div>
 
@@ -32,6 +25,8 @@ survivors, their loved ones and caregivers.
 <br/>
 <div class='pastEvent'>
 <p><b>Past Events:</b></p>
+<span>6th Annual Living With & Beyond Cancer Conference (03/18/2017). Check <a href='index.php?gt=conference'>Conferences Page</a> for detail.</span><br/>
+<br/>
 <span>Hope and Healing Honors (09/24/2016) <a href='#' onclick='window.open("pdfs/hope_healing_honors.pdf");'>View flyer</a>
 <a href='#' onclick='window.open("pdfs/hhh_honorees_2016.pdf");'>honorees</a>
 </span><br/>

@@ -5,18 +5,27 @@
 <table>
 <tr><td>Date/Time:</td><td>March 18th, 2017, 8:30am to 4:30pm</td></tr>
 <tr><td valign='top'>Location:</td><td>Central United Methodist Church<br/>201 University Blvd NE, Albuquerque, NM</td></tr>
-<tr><td>Registration:</td><td><a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
-OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf");'>download</a> the registration form, complete it and mail to us</a>
+<tr><td>Registration:</td><td>Closed<!--a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
+OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf");'>download</a> the registration form, complete it and mail to us</a-->
 </td></tr>
 </table>
 <br/>
-<p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
+
+<a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/>
+
+Conference Talks:
+<a href='#' onclick='window.open("pdfs/6th_conference_gail_rubin.pdf");'>Gail Rubin</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_lymphedema_talk.pdf");'>Lymphedemo Talk</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_verdes_foundation.pdf");'>Verdes Foundation</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_sacredness_healing.pdf");'>Sacredness in Healing</a>
+<br/>
+<!--p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_hospice101.pdf");'>Hospice 101</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_vialoflife.pdf");'>Vial of life</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_jmflyer.pdf");'>JM Lunchtime speaker</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_medicalcannabisflyer.pdf");'>Medical cannabis</a> &nbsp;
-<a href='#' onclick='window.open("pdfs/6th_conference_kwlflyer.pdf");'>Sacredness in Healing</a> &nbsp;( more to come ...)</p>
+<a href='#' onclick='window.open("pdfs/6th_conference_kwlflyer.pdf");'>Sacredness in Healing</a> &nbsp;( more to come ...)</p-->
 <!--ul>
 <li><a href='#' onclick='window.open("pdfs/5th_conference_overview4.pdf");'>overview</a></li>
 <li><a href='#' onclick='window.open("pdfs/5th_conference_yoga2.pdf");'>yoga</a></li>
