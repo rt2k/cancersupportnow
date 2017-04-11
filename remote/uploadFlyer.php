@@ -1,5 +1,7 @@
 <?php
 session_start();
+include('../checkSession.inc');
+
 require_once('../getConnection.php');
 
 $user = $_SESSION['username'];

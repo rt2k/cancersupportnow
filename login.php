@@ -27,6 +27,9 @@
             }
         }
     } else {
+        if (isset($_GET['e'])) {
+            print '<h3 style="color: #e55e5e">Your session has expired. Please login to continue.</h3>';
+        }
 ?>
 
 <div id='login'>

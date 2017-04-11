@@ -1,5 +1,7 @@
 <?php
 session_start();
+include('../checkSession.inc');
+
 require_once('../getConnection.php');
 
 $conn = getConnection();

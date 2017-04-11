@@ -1,6 +1,13 @@
 <?php
 session_start();
-if (isset($_POST['logout'])) session_unset();
+ini_set('session.gc-maxlifetime', 1800);
+
+if (isset($_POST['logout'])) {
+    session_unset();
+} else if (isset($_SESSION['username'])){
+
+    include('checkSession.inc');
+}
 
 require_once('captchaSecret.inc');
 
