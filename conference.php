@@ -17,7 +17,8 @@ Conference Talks:
 <a href='#' onclick='window.open("pdfs/6th_conference_gail_rubin.pdf");'>Gail Rubin</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema_talk.pdf");'>Lymphedemo Talk</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_verdes_foundation.pdf");'>Verdes Foundation</a>&nbsp;
-<a href='#' onclick='window.open("pdfs/6th_conference_sacredness_healing.pdf");'>Sacredness in Healing</a>
+<a href='#' onclick='window.open("pdfs/6th_conference_sacredness_healing.pdf");'>Sacredness in Healing</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_mind_body_neutral.pdf");'>Mind-body neutral background</a>
 <br/>
 <!--p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a> &nbsp;
