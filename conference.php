@@ -1,3 +1,4 @@
+<img src='pdfs/conference_icon.jpg' width='100%' />
 <p class="contentHeader">Conference</p>
 <hr/>
 
@@ -13,12 +14,16 @@ OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf")
 
 <a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/>
 
-Conference Talks:
+Conference Talks/Materials:
 <a href='#' onclick='window.open("pdfs/6th_conference_gail_rubin.pdf");'>Gail Rubin</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema_talk.pdf");'>Lymphedemo Talk</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_verdes_foundation.pdf");'>Verdes Foundation</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_sacredness_healing.pdf");'>Sacredness in Healing</a>&nbsp;
-<a href='#' onclick='window.open("pdfs/6th_conference_mind_body_neutral.pdf");'>Mind-body neutral background</a>
+<a href='#' onclick='window.open("pdfs/6th_conference_mind_body_neutral.pdf");'>Mind-body neutral background</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_new_mexico_medical_cannabis_program.pdf");'>New mexico medical cannabis program</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_nmmcp_patient_statistics0217.pdf");'>NMMCP patient statistics-Feb-2017</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_licensed_nonprofit_producers.pdf");'>Licensed Nonprofit producers</a>&nbsp;
+<a href='#' onclick='window.open("pdfs/6th_conference_medical_cannabis_patient_application.pdf");'>Medical cannabis patient application</a>
 <br/>
 <!--p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a> &nbsp;
