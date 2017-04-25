@@ -11,7 +11,7 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
-<p><i><u>February 2017 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
+<p><i><u>May 2017 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
 </div>
 
 <div class='announcement'>

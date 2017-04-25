@@ -70,11 +70,11 @@ Adolescent Behavioral Health Programs. His wife, Alice, is a long-term breast ca
 prostate cancer. Dr. Hiat has facilitated support groups for caregivers.
 </p></div>
 
-<h4>Thelma Giomi, PhD *</h4>
+<!--h4>Thelma Giomi, PhD *</h4>
 <div><p>
 Thelma Giomi is a clinical psychologist, published author and poet and has extensive experience as a caregiver for many
 forms of cancer. She chairs the Debra Giomi Origami Crane Card Project and Share the Care Groups.
-</p></div>
+</p></div-->
 
 <h4>Michael Linver, M.D. **</h4>
 <div><p>
