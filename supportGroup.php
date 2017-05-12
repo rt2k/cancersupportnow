@@ -8,7 +8,6 @@ if (isset($_SESSION['username'])) {
 
 <p class='contentHeader'>Free Cancer Support Now Services. </p>
 <p>
-    <i>* New groups transitioned over from People Living Through Cancer (PLTC) as of April/May 2016.</i>
     <?php if($user) print "<input class='listitem-add' type='button' value='Add new group' onclick='showEditPanel();'/>"; ?>
 </p>
 <hr/>
