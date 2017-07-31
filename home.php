@@ -11,6 +11,10 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
+<p><a href='http://www.curetoday.com/articles/expert-discusses-living-with-chemotherapy-induced-peripheral-neuropathy'/><u>Expert Discusses Living With Chemotherapy-Induced Peripheral Neuropathy</u></a></p>
+</div>
+
+<div class='announcement'>
 <p><i><u>May 2017 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
 </div>
 
