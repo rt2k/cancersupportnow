@@ -11,11 +11,15 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
-<p><a href='http://www.curetoday.com/articles/expert-discusses-living-with-chemotherapy-induced-peripheral-neuropathy'/><u>Expert Discusses Living With Chemotherapy-Induced Peripheral Neuropathy</u></a></p>
+<p><i><u>Summer 2017 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
 </div>
 
 <div class='announcement'>
-<p><i><u>May 2017 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
+<p>Check out the new <a href='#' onclick='window.open("pdfs/meal_on_wheel.pdf");'><u>Meals on Wheels program</a></p>
+</div>
+
+<div class='announcement'>
+<p><a href='http://www.curetoday.com/articles/expert-discusses-living-with-chemotherapy-induced-peripheral-neuropathy'/><u>Expert Discusses Living With Chemotherapy-Induced Peripheral Neuropathy</u></a></p>
 </div>
 
 <div class='announcement'>
