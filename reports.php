@@ -2,7 +2,11 @@
 <hr/>
 <p><i>We welcome submissions of articles, stories, happenings in the cancer community (photos, notes, anecdotes) for publication (on this website) (or in this journal)..."
 for journal: deadlines: January 1 for February issue, July 1 for August issue.</i></p>
-<a href='#' onclick='window.open("pdfs/newsletter_summer_2017.pdf");'><b>Newsletter - 2017 summer</b></a>
+<a href='#' onclick='window.open("pdfs/newsletter_02_2018.pdf");'><b>Newsletter - 02/2018</b></a>
+<br/><br/>
+<a href='#' onclick='window.open("pdfs/newsletter_11_2017.pdf");'>Newsletter - 2017 November</a>
+<br/><br/>
+<a href='#' onclick='window.open("pdfs/newsletter_summer_2017.pdf");'>Newsletter - 2017 summer</a>
 <br/><br/>
 <a href='#' onclick='window.open("pdfs/newsletter_05_2017.pdf");'>Newsletter - 5/2017</a>
 <br/><br/>

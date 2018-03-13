@@ -2,20 +2,40 @@
 <p class="contentHeader">Conference</p>
 <hr/>
 
-<b><i>The 6th Annual Conference - Living With & Beyond Cancer</b></i><br/><br/> 
+<b><i>The 7th Annual Conference - Living With & Beyond Cancer</b></i><br/> 
+<p><i>A collaboration of Cancer Support Now, the Prostate Cancer Support Association of NM, and the Gynecological Cancer Awareness Project</i></p>
+<br/>
 <table>
-<tr><td>Date/Time:</td><td>March 18th, 2017, 8:30am to 4:30pm</td></tr>
-<tr><td valign='top'>Location:</td><td>Central United Methodist Church<br/>201 University Blvd NE, Albuquerque, NM</td></tr>
-<tr><td>Registration:</td><td>Closed<!--a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
+<tr><td>Date/Time:</td><td>April 28th, 2018, 8:30am to 3:30pm</td></tr>
+<tr><td valign='top'>Location:</td><td>Sandia Preparatory School<br/>532 Osuna Rd. NE, Albuquerque, NM</td></tr>
+<tr><td>Registration:</td><td><!--a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
 OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf");'>download</a> the registration form, complete it and mail to us</a-->
 </td></tr>
 </table>
 <br/>
 
-<a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/>
+Features keynote speaker: Christine Sherwood, LMT, DHM <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Integrating yourself back into life</i></b>
+<br/><br/>
 
-Conference Talks/Materials:
-<a href='#' onclick='window.open("pdfs/6th_conference_gail_rubin.pdf");'>Gail Rubin</a>&nbsp;
+<pre>
+Additional break-out sessions include (choose 2): 
+<ul>
+<li>Why So Tired: Fatigue & Sleep During & After Cancer</li>
+<li>Immunotherapy: A New Frontier of Cancer Treatment</li>
+<li>Prostate cancer</li>
+<li>Gynecological cancer</li>
+<li>Flip My Wig wigs and scarves styling tutorial</li>
+<li>Diet & Nutrition</li>
+<li>Surviving the Financial Impact of Cancer</li>
+</ul>
+
+More info coming soon...
+</pre>
+<!--a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/-->
+ 
+<!-- Conference Talks/Materials: -->
+<!--a href='#' onclick='window.open("pdfs/6th_conference_gail_rubin.pdf");'>Gail Rubin</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema_talk.pdf");'>Lymphedemo Talk</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_verdes_foundation.pdf");'>Verdes Foundation</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_sacredness_healing.pdf");'>Sacredness in Healing</a>&nbsp;
@@ -24,7 +44,7 @@ Conference Talks/Materials:
 <a href='#' onclick='window.open("pdfs/6th_conference_nmmcp_patient_statistics0217.pdf");'>NMMCP patient statistics-Feb-2017</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_licensed_nonprofit_producers.pdf");'>Licensed Nonprofit producers</a>&nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_medical_cannabis_patient_application.pdf");'>Medical cannabis patient application</a>
-<br/>
+<br/-->
 <!--p>Conference Fliers: <a href='#' onclick='window.open("pdfs/6th_conference_lymphedema.pdf");'>Lymphedema</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_improvmedicine.pdf");'>Improv Medicine</a> &nbsp;
 <a href='#' onclick='window.open("pdfs/6th_conference_hospice101.pdf");'>Hospice 101</a> &nbsp;
