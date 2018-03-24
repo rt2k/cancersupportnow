@@ -8,7 +8,7 @@
 <table>
 <tr><td>Date/Time:</td><td>April 28th, 2018, 8:30am to 3:30pm</td></tr>
 <tr><td valign='top'>Location:</td><td>Sandia Preparatory School<br/>532 Osuna Rd. NE, Albuquerque, NM</td></tr>
-<tr><td>Registration:</td><td><!--a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
+<tr><td>Registration:</td><td>Download the registration form <a href='#' onclick='window.open("pdfs/2018_conference_registration.pdf");'>here</a><!--a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
 OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf");'>download</a> the registration form, complete it and mail to us</a-->
 </td></tr>
 </table>
@@ -19,18 +19,17 @@ Features keynote speaker: Christine Sherwood, LMT, DHM <br/>
 <br/><br/>
 
 <pre>
-Additional break-out sessions include (choose 2): 
-<ul>
-<li>Why So Tired: Fatigue & Sleep During & After Cancer</li>
-<li>Immunotherapy: A New Frontier of Cancer Treatment</li>
-<li>Prostate cancer</li>
-<li>Gynecological cancer</li>
-<li>Flip My Wig wigs and scarves styling tutorial</li>
-<li>Diet & Nutrition</li>
-<li>Surviving the Financial Impact of Cancer</li>
-</ul>
+Morning Breakout Sessions 11:15am-12:30pm
+ Are we an Effective Team? Relationship Stress in Cancer Treatment
+ New Frontiers in Cancer Immunotherapy
+ Living with Ovarian Cancer and other Below the Belt Cancers
+ Surviving the Financial Impact of Cancer
 
-More info coming soon...
+Afternoon Breakout Sessions 1:45pm-3pm
+ Surviving the Financial Impact of Cancer
+ Flip My Wig: Wig and head wrap styling tutorial
+ Tired of Cancer: Fatigue & Sleep During & After Cancer
+ Diet & Nutrition
 </pre>
 <!--a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/-->
  
