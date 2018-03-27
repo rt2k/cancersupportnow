@@ -8,8 +8,8 @@
 <table>
 <tr><td>Date/Time:</td><td>April 28th, 2018, 8:30am to 3:30pm</td></tr>
 <tr><td valign='top'>Location:</td><td>Sandia Preparatory School<br/>532 Osuna Rd. NE, Albuquerque, NM</td></tr>
-<tr><td>Registration:</td><td>Download the registration form <a href='#' onclick='window.open("pdfs/2018_conference_registration.pdf");'>here</a><!--a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdVkvUDYD1xBzCr34e4PzyAtsvgX5Xtflus1PBpg40L99fRdA/viewform');">Register online</a>
-OR <a href='#' onclick='window.open("pdfs/6th_conference_registration_form.pdf");'>download</a> the registration form, complete it and mail to us</a-->
+<tr><td>Registration:</td><td><a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSfBbdHTWcDL8ArQCglaPm6px-vagTJ-JbnJi1ckanOcpKWaYQ/viewform');">Register online</a>
+OR <a href='#' onclick='window.open("pdfs/2018_conference_registration.pdf");'>download</a> the registration form, complete it and mail to us</a>
 </td></tr>
 </table>
 <br/>
