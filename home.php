@@ -21,7 +21,8 @@ Check <a href='index.php?gt=conference'><b>Conferences</b></a> page or call 575-
 </div>
 
 <div class='announcement'>
-<p><i><u>Feb. 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p>
+<!--p><i><u>Spring 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p-->
+<p><a href='#' onclick='window.open("pdfs/CSN_nl_Spring_2018.pdf");'><i><u>Spring 2018 Newsletter</u></i></a> is now available.</p>
 </div>
 
 <div class='announcement'>
