@@ -6,7 +6,7 @@
 <p><i>A collaboration of Cancer Support Now, the Prostate Cancer Support Association of NM, and the Gynecological Cancer Awareness Project</i></p>
 <br/>
 
-<p><a href='#' onclick='window.open("pdfs/7th_conference_dietandnutrition.pdf");'>Diet and Nutrition presentation</a></p>
+<p><a href='#' onclick='window.open("pdfs/7th_conference_dietandnutrition_presentation.pdf");'>Diet and Nutrition presentation</a></p>
 <!--table>
 <tr><td>Date/Time:</td><td>April 28th, 2018, 8:30am to 3:30pm</td></tr>
 <tr><td valign='top'>Location:</td><td>Sandia Preparatory School<br/>532 Osuna Rd. NE, Albuquerque, NM</td></tr>
