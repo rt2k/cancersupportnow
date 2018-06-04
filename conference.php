@@ -5,7 +5,9 @@
 <b><i>The 7th Annual Conference - Living With & Beyond Cancer</b></i><br/> 
 <p><i>A collaboration of Cancer Support Now, the Prostate Cancer Support Association of NM, and the Gynecological Cancer Awareness Project</i></p>
 <br/>
-<table>
+
+<p><a href='#' onclick='window.open("pdfs/7th_conference_dietandnutrition.pdf");'>Diet and Nutrition presentation</a></p>
+<!--table>
 <tr><td>Date/Time:</td><td>April 28th, 2018, 8:30am to 3:30pm</td></tr>
 <tr><td valign='top'>Location:</td><td>Sandia Preparatory School<br/>532 Osuna Rd. NE, Albuquerque, NM</td></tr>
 <tr><td>Registration:</td><td><a href='#' onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSfBbdHTWcDL8ArQCglaPm6px-vagTJ-JbnJi1ckanOcpKWaYQ/viewform');">Register online</a>
@@ -30,7 +32,7 @@ Afternoon Breakout Sessions 1:45pm-3pm
  Flip My Wig: Wig and head wrap styling tutorial
  Tired of Cancer: Fatigue & Sleep During & After Cancer
  Diet & Nutrition
-</pre>
+</pre-->
 <!--a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/-->
  
 <!-- Conference Talks/Materials: -->
