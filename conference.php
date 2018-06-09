@@ -7,6 +7,9 @@
 <br/>
 
 <p><a href='#' onclick='window.open("pdfs/7th_conference_dietandnutrition_presentation.pdf");'>Diet and Nutrition presentation</a></p>
+<p><a href='#' onclick='window.open("pdfs/7th_conference_Surviving_the_Financial_Impact_of_Cancer.pdf");'>Surviving the Financial Impact of Cancer</a></p>
+<p><a href='#' onclick='window.open("pdfs/7th_conference_Cost_Sharing_Foundations_for_the_Insured_Patient.pdf");'>Cost Sharing Foundations for the Insured Patient</a></p>
+<p><a href='#' onclick='window.open("pdfs/7th_conference_Soc_Sec_Disability_Preparation_Sheet.pdf");'>Soc Sec Disability Preparation Sheet</a></p>
 <!--table>
 <tr><td>Date/Time:</td><td>April 28th, 2018, 8:30am to 3:30pm</td></tr>
 <tr><td valign='top'>Location:</td><td>Sandia Preparatory School<br/>532 Osuna Rd. NE, Albuquerque, NM</td></tr>
