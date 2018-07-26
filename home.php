@@ -11,18 +11,8 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
-<p>
-Annual Free Conference <i>Living With and Beyond Cancer</i><br/>
-Saturday April 28th, 2018<br/>
-8:30am - 3:30pm<br/>
-Includes Breakfast & Lunch<br/>
-Check <a href='index.php?gt=conference'><b>Conferences</b></a> page or call 575-442-8375 (toll free 855-955-3500) for detail.
-</p>
-</div>
-
-<div class='announcement'>
 <!--p><i><u>Spring 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p-->
-<p><a href='#' onclick='window.open("pdfs/CSN_nl_Spring_2018.pdf");'><i><u>Spring 2018 Newsletter</u></i></a> is now available.</p>
+<p><a href='#' onclick='window.open("pdfs/CSN_nl_august_2018.pdf");'><i><u>August 2018 Newsletter</u></i></a> is now available.</p>
 </div>
 
 <div class='announcement'>
