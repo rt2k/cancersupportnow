@@ -11,6 +11,20 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
+<p>2nd Annual Hope & Healing Honors (12/01/2018) <a href='#' onclick='window.open("pdfs/2nd_hope_healing_honors.pdf");'>View flyer</a>
+<!--a href='#' onclick='window.open("pdfs/hhh_honorees_2016.pdf");'>honorees</a-->
+</p>
+<!--p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p>
+<p>Nomination: <a href='index.php?gt=hhhsubmit'>click here</a></p-->
+<p><a href='#' onclick='window.open("pdfs/2nd_hhh_registration_normination_form.pdf");'>Registration/Nomination forms</a></p>
+<?php if ($isAdmin) { ?>
+    <!--p><a href="index.php?gt=hhhreserveshow">View reservations</a></p>
+    <p><a href="index.php?gt=hhhshow">View nominations</a></p-->
+<?php }?>
+<p><b>Consider donating to this event?</b> Get the <a href='#' onclick='window.open("pdfs/2nd_hhh_donation_form.pdf");'>form</a></p>
+</div>
+
+<div class='announcement'>
 <!--p><i><u>Spring 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p-->
 <p><a href='#' onclick='window.open("pdfs/CSN_nl_august_2018.pdf");'><i><u>August 2018 Newsletter</u></i></a> is now available.</p>
 </div>
