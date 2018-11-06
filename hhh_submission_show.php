@@ -13,7 +13,7 @@ require_once('getConnection.php');
 
 $conn = getConnection();
 
-$query = "SELECT * FROM ccs.hhh_event_2016_vw ORDER BY submission_time DESC";
+$query = "SELECT * FROM ccs.hhh_event_2018_vw ORDER BY submission_time DESC";
 $rs = pg_query($conn, $query);
 while($row = pg_fetch_assoc($rs)) {
     printSubmission($row);

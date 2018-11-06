@@ -4,9 +4,9 @@
 
 <form id='hhh_submission_form' class='submission_form' ction='hhh_submission_save.php' method='post'>
 <!-- current year of event -->
-<input type='hidden' value='2016' id='year' name='year' />
+<input type='hidden' value='2018' id='year' name='year' />
 
-<p>Deadline for submission is Monday, August 15, 2016</p>
+<p>Deadline for submission is Monday, November 5, 2018</p>
 <p>Honorees will be invited to attend the event as the guests of Cancer Support Now.</p>
 
 <fieldset>

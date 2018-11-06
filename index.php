@@ -155,6 +155,7 @@ All CSN support services are free.
             case 'hhhshow':
                 include('hhh_submission_show.php');
                 break;
+            /*
             case 'hhhreserve':
                 include('hhh_reservation.php');
                 break;
@@ -164,6 +165,7 @@ All CSN support services are free.
             case 'hhhreserveshow':
                 include('hhh_reservation_show.php');
                 break;
+            */
             case 'login':
                 include('login.php');
                 break;

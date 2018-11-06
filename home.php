@@ -14,12 +14,13 @@ survivors, their loved ones and caregivers.
 <p>2nd Annual Hope & Healing Honors (12/01/2018) <a href='#' onclick='window.open("pdfs/2nd_hope_healing_honors.pdf");'>View flyer</a>
 <!--a href='#' onclick='window.open("pdfs/hhh_honorees_2016.pdf");'>honorees</a-->
 </p>
-<!--p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p>
-<p>Nomination: <a href='index.php?gt=hhhsubmit'>click here</a></p-->
+<!--p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p-->
+<p>Buy tickets: <a href='https://www.bit.ly/HopeHealing2018' target='_blank'>click here</a></p>
+<p>Online nomination: <a href='index.php?gt=hhhsubmit'>click here</a></p>
 <p><a href='#' onclick='window.open("pdfs/2nd_hhh_registration_normination_form.pdf");'>Registration/Nomination forms</a></p>
 <?php if ($isAdmin) { ?>
-    <!--p><a href="index.php?gt=hhhreserveshow">View reservations</a></p>
-    <p><a href="index.php?gt=hhhshow">View nominations</a></p-->
+    <!--p><a href="index.php?gt=hhhreserveshow">View reservations</a></p-->
+    <p><a href="index.php?gt=hhhshow">View nominations</a></p>
 <?php }?>
 <p><b>Consider donating to this event?</b> Get the <a href='#' onclick='window.open("pdfs/2nd_hhh_donation_form.pdf");'>form</a></p>
 </div>
