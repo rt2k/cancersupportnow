@@ -23,7 +23,7 @@ header("Pragma: no-cache");
 		$goto = 'home';
 	}
 
-$adminList = array('Patricia_Torn', 'ruwang', 'germanyboy1950');
+$adminList = array('Patricia_Torn', 'ruwang', 'germanyboy1950', 'bkarnezis');
 if (isset($_SESSION['username']) && in_array($_SESSION['username'], $adminList)) {
     $isAdmin = true;
 } else {
