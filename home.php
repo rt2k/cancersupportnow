@@ -27,7 +27,7 @@ survivors, their loved ones and caregivers.
 
 <div class='announcement'>
 <!--p><i><u>Spring 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p-->
-<p><a href='#' onclick='window.open("pdfs/CSN_nl_august_2018.pdf");'><i><u>August 2018 Newsletter</u></i></a> is now available.</p>
+<p><a href='#' onclick='window.open("pdfs/CSN_nl_november_2018.pdf");'><i><u>November 2018 Newsletter</u></i></a> is now available.</p>
 </div>
 
 <div class='announcement'>
