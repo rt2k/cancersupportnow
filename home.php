@@ -11,19 +11,26 @@ survivors, their loved ones and caregivers.
 <br/>
 
 <div class='announcement'>
+<p>8th Annual Conference - Living With & Beyond Cancer <a href='#' onclick='window.open("pdfs/2019_conference_flyer.jpg")'>view flyer</a></p>
+<p>when: March 23rd, 2019 8:30am - 4:00pm</p>
+<p>where: Central United Methodist Church</p>
+<p>for registration and more detail, go to <a href="index.php?gt=conference">Conference page</a></p>
+</div>
+
+<!--div class='announcement'>
 <p>2nd Annual Hope & Healing Honors (12/01/2018) <a href='#' onclick='window.open("pdfs/2nd_hope_healing_honors.pdf");'>View flyer</a>
-<!--a href='#' onclick='window.open("pdfs/hhh_honorees_2016.pdf");'>honorees</a-->
+<a href='#' onclick='window.open("pdfs/hhh_honorees_2016.pdf");'>honorees</a>
 </p>
-<!--p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p-->
+<p>Reservation/Donation: <a href='index.php?gt=hhhreserve'>click here</a></p>
 <p>Buy tickets: <a href='https://www.bit.ly/HopeHealing2018' target='_blank'>click here</a></p>
 <p>Online nomination: <a href='index.php?gt=hhhsubmit'>click here</a></p>
 <p><a href='#' onclick='window.open("pdfs/2nd_hhh_registration_normination_form.pdf");'>Registration/Nomination forms</a></p>
 <?php if ($isAdmin) { ?>
-    <!--p><a href="index.php?gt=hhhreserveshow">View reservations</a></p-->
+    <p><a href="index.php?gt=hhhreserveshow">View reservations</a></p>
     <p><a href="index.php?gt=hhhshow">View nominations</a></p>
 <?php }?>
 <p><b>Consider donating to this event?</b> Get the <a href='#' onclick='window.open("pdfs/2nd_hhh_donation_form.pdf");'>form</a></p>
-</div>
+</div-->
 
 <div class='announcement'>
 <!--p><i><u>Spring 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p-->
@@ -49,6 +56,8 @@ survivors, their loved ones and caregivers.
 <br/>
 <div class='pastEvent'>
 <p><b>Past Events:</b></p>
+<span>2nd Annual Hope & Healing Honors (12/01/2018) <a href='#' onclick='window.open("pdfs/2nd_hope_healing_honors.pdf");'>View flyer</a></span><br/>
+<br/>
 <span>6th Annual Living With & Beyond Cancer Conference (03/18/2017). Check <a href='index.php?gt=conference'>Conferences Page</a> for detail.</span><br/>
 <br/>
 <span>Hope and Healing Honors (09/24/2016) <a href='#' onclick='window.open("pdfs/hope_healing_honors.pdf");'>View flyer</a>
