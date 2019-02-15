@@ -16,7 +16,7 @@ OR <a href='#' onclick='window.open("pdfs/2019_conference_registration.pdf");'>d
 
 
 <br/>
-Opening Speaker: <a href='#' onclick='window.open("pdfs/2019_conference_surya.pdf")'>Integrative Medicine</a> – Surya Pierce, MD
+Opening Speaker: <a href='#' onclick='window.open("pdfs/2019_conference_surya-2.pdf")'>Integrative Medicine</a> – Surya Pierce, MD
 <br/><br/>
 Morning Breakout Sessions:
 <ul>
@@ -26,7 +26,7 @@ Morning Breakout Sessions:
 <li><a href='#' onclick='window.open("pdfs/2019_conference_ai_chi.pdf")'>Introduction to Ai Chi</a> - Renee Budagher Marshall
 </ul>
 
-Luncheon speaker: <a href='#' onclick='window.open("pdfs/2019_conference_morsea.pdf")'>Palliative Care</a> - Kathy Morsea, MD
+Luncheon speaker: <a href='#' onclick='window.open("pdfs/2019_conference_morsea-2.pdf")'>Palliative Care</a> - Kathy Morsea, MD
 <br/><br/>
 Afternoon Breakout Sessions
 <ul>
