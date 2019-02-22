@@ -33,7 +33,7 @@ Afternoon Breakout Sessions
 <li><a href='#' onclick='window.open("pdfs/2019_conference_cbd_cannabis.pdf")'>CBD &amp; Medical Cannabis</a> – Gina Lucero, RN &amp; Marissa Cecco LPN
 <li><a href='#' onclick='window.open("pdfs/2019_conference_eating_healthy.pdf")'>Eating Healthy for Mind and Body</a> - Dianne Christensen, NMSU Bernalillo County Cooperative Extension Service
 <li><a href='#' onclick='window.open("pdfs/2019_conference_painflyer.pdf")'>Pain Management</a> - Catherine A. Offutt &amp; Patricia Torn, Chronic Disease Self-Management Education Programs
-<li>Intimacy and Relationships - Tera Mikula, PhD
+<li><a href='#' onclick='window.open("pdfs/2019_conference_imitacy_relationship.pdf")'>Intimacy and Relationships</a> - Tera S. Jones, PhD
 </ul>
 <!--a href='#' onclick='window.open("pdfs/6th_conference_program.pdf");'>Conference program</a><br/><br/-->
  
