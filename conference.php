@@ -20,7 +20,7 @@ Opening Speaker: <a href='#' onclick='window.open("pdfs/2019_conference_surya-2.
 <br/><br/>
 Morning Breakout Sessions:
 <ul>
-<li><a href='#' onclick='window.open("pdfs/2019_conference_clinical_trials.pdf")'>Oncology Clinical Trials</a> - Leslie Byatt, NM Cancer Care Alliance
+<li><a href='#' onclick='window.open("pdfs/2019_conference_clinical_trials.pdf")'>Oncology Clinical Trials</a> - Ellen R. Wojcik, MBA/HCM, BA, NM Cancer Care Alliance
 <li><a href='#' onclick='window.open("pdfs/2019_conference_cbd_cannabis.pdf")'>CBD &amp; Medical Cannabis</a> – Gina Lucero, RN &amp; Marissa Cecco LPN
 <li><a href='#' onclick='window.open("pdfs/2019_conference_painflyer.pdf")'>Pain Management</a> - Catherine A. Offutt &amp; Patricia Torn, Chronic Disease Self-Management Education Programs
 <li><a href='#' onclick='window.open("pdfs/2019_conference_ai_chi.pdf")'>Introduction to Ai Chi</a> - Renee Budagher Marshall
