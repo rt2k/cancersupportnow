@@ -38,11 +38,11 @@ survivors, their loved ones and caregivers.
 </div>
 
 <div class='announcement'>
-<p>Check out the new <a href='#' onclick='window.open("pdfs/meal_on_wheel.pdf");'><u>Meals on Wheels program</a></p>
+<p>Check out the new <a href='#' onclick='window.open("pdfs/meal_on_wheel.pdf");'>Meals on Wheels program</a></p>
 </div>
 
 <div class='announcement'>
-<p><a href='http://www.curetoday.com/articles/expert-discusses-living-with-chemotherapy-induced-peripheral-neuropathy'/><u>Expert Discusses Living With Chemotherapy-Induced Peripheral Neuropathy</u></a></p>
+<p><a href='http://www.curetoday.com/articles/expert-discusses-living-with-chemotherapy-induced-peripheral-neuropathy'/>Expert Discusses Living With Chemotherapy-Induced Peripheral Neuropathy</a></p>
 </div>
 
 <div class='announcement'>
