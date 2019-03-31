@@ -46,9 +46,9 @@ She also showed an interesting 2 minute video called <a href='https://www.bing.c
 <p>Conference pictures:</p>
 <img src="pdfs/8th_conference_pic1.jpg" height="50%"/>
 <img src="pdfs/8th_conference_pic2.jpg" height="50%"/>
+<img src="pdfs/8th_conference_pic5.jpg" height="50%"/>
 <img src="pdfs/8th_conference_pic3.jpg" height="50%"/>
 <img src="pdfs/8th_conference_pic4.jpg" height="50%"/>
-<img src="pdfs/8th_conference_pic5.jpg" height="50%"/>
 <br/><br/>
 <!--
 Opening Speaker: <a href='#' onclick='window.open("pdfs/2019_conference_surya-2.pdf")'>Integrative Medicine</a> – Surya Pierce, MD
