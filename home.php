@@ -14,7 +14,7 @@ survivors, their loved ones and caregivers.
 <p>8th Annual Conference - Living With & Beyond Cancer <a href='#' onclick='window.open("pdfs/2019_conference_flyer.jpg")'>view flyer</a></p>
 <p>when: March 23rd, 2019 8:30am - 4:00pm</p>
 <p>where: Central United Methodist Church</p>
-<p>for registration and more detail, go to <a href="index.php?gt=conference">Conference page</a></p>
+<p>for more detail, go to <a href="index.php?gt=conference">Conference page</a></p>
 </div>
 
 <!--div class='announcement'>
@@ -34,7 +34,7 @@ survivors, their loved ones and caregivers.
 
 <div class='announcement'>
 <!--p><i><u>Spring 2018 Newsletter</u></i> is available. Check <a href='index.php?gt=reports'><b>Reports</b></a> page for detail.</p-->
-<p><a href='#' onclick='window.open("pdfs/CSN_nl_november_2018.pdf");'><i><u>November 2018 Newsletter</u></i></a> is now available.</p>
+<p><a href='#' onclick='window.open("pdfs/CSN_nl_march_2019.pdf");'><i><u>March 2019 Newsletter</u></i></a> is now available.</p>
 </div>
 
 <div class='announcement'>
