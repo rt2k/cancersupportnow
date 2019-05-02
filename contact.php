@@ -11,7 +11,7 @@ Email: <a href='mailto:info@cancersupportnow.org'>info@cancersupportnow.org</a>
 Facebook: <a href="https://www.facebook.com/cancersupportnow">https://www.facebook.com/cancersupportnow</a>
 <br/><br/>
 <!--p>For any website technical issue, <a href='mailto:rt2k101@gmail.com'>email webmaster</a>.</p-->
-<p>If you experience any website technical issue, send a message to webmaster.</p>
+<!--p>If you experience any website technical issue, send a message to webmaster.</p>
 
 <label>Your Name:</label><br/>
 <input type='text' id='name' name='name' size='40'/><br/><br/>
@@ -20,7 +20,7 @@ Facebook: <a href="https://www.facebook.com/cancersupportnow">https://www.facebo
 <label>Message:</label><br/>
 <textarea id='message' name='message' cols='35' rows='10'></textarea><br/>
 <input type='button' id='sendbtn' value='Send' onclick='sendMessage();'/>
-<input type='button' value='Clear' onclick='clearMessage();'/>
+<input type='button' value='Clear' onclick='clearMessage();'/-->
 
 
 <script>
