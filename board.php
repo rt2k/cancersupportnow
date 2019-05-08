@@ -1,13 +1,29 @@
-<p class='contentHeader'>Current Board of Directors (Term expires on 12/31/2017 ** ; Term expires on 12/31/2016 *)</p>
+<p class='contentHeader'>Current Board of Directors</p>
 <hr/>
 
 <p><i>The Cancer Support Now Board of Directors meets monthly, usually on the second Sunday of the month from 1pm to 3:15
 pm, but has been known to deviate due to holidays, conferences, or travel. If you have items of business or discussion you
-would like to present to or ask of the board, you may call or email any Board member, or you may attend any meeting;
-just ask the Board President for the location and time of the next board meeting by e-mailing Sandy at
-<a href="mailto:dryflysandy@comcast.net">dryflysandy@comcast.net</a>. </i></p>
+would like to present to or ask of the board, you may call or email any Board member, or you may attend any meeting;</i></p>
 
-<div id='boardDirectorAccordion'>
+<pre>
+<font size=4>
+<b>Co-Presidents</b> - Brittany Karnesiz &amp; Anjanette Cureton
+<b>Secretary</b> – Gavriela de Boer
+<b>Treasurer</b> – Mark Rupert
+Russell Janis
+Carmelita Agodon
+Pamela Engel
+
+<b>Advisory Committee:</b>
+Eleanor Schick, Helpline/Navigator
+Patricia Torn, Training &amp; Workshops
+Runtang Wang, Webmaster
+Patricia Monaghan, Legal Advisor
+Alice Hiat, Emeritus
+Michael Linver, Emeritus
+</font>
+</pre>
+<!--div id='boardDirectorAccordion'>
 <h4>Sandy Ginsburg, PhD President **</h4>
 <div>
 <p>
@@ -70,12 +86,6 @@ Adolescent Behavioral Health Programs. His wife, Alice, is a long-term breast ca
 prostate cancer. Dr. Hiat has facilitated support groups for caregivers.
 </p></div>
 
-<!--h4>Thelma Giomi, PhD *</h4>
-<div><p>
-Thelma Giomi is a clinical psychologist, published author and poet and has extensive experience as a caregiver for many
-forms of cancer. She chairs the Debra Giomi Origami Crane Card Project and Share the Care Groups.
-</p></div-->
-
 <h4>Michael Linver, M.D. **</h4>
 <div><p>
 Michael Linver, a radiologist with X-Ray Associates specializing in breast imaging for 26 years, serves as Clinical Professor
@@ -117,4 +127,4 @@ support related positions since then, she facilitates a support group and is a t
 Navigation CSN program.
 </p></div>
 
-</div>
+</div-->
